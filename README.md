@@ -12,12 +12,14 @@ The goal of PawCare PRO is to provide a dedicated digital health assistance plat
 5-Make informed decisions before visiting a veterinarian
 
 ✨ Features
-    🐱 Cat-only symptom checker
-    🔍 Symptom-based condition suggestions
-    📍 Vet recommendation support
-    📱 Mobile-responsive interface
-    🎨 User-friendly design
-    ⚠️ Medical disclaimer for responsible usage
+
+🐱 Cat-only symptom checker
+🔍 Symptom-based condition suggestions
+📍 Vet recommendation support
+📱 Mobile-responsive interface
+🎨 User-friendly design
+⚠️ Medical disclaimer for responsible usage
+    
 🛠 Technologies Used
 -HTML5
 -CSS3
